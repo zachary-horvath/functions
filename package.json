@@ -1,8 +1,9 @@
 {
   "name": "functions",
   "version": "1.0.0",
-  "description": "Practice with JavaScript functions.",
+  "description": "Miscellaneous functions built with Node.js.",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon app.js"
   },
