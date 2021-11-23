@@ -21,6 +21,12 @@
   </p>
 </p>
 
+<br />
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/ea0370b5466853407ad3927acafb81a57ef5d647.svg" alt="Repobeats analytics image"/>
+</p>
+<br />
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -122,6 +128,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Email - me@zacharyhorvath.io <br />
+
 <!-- Project URL - []() <br /> -->
 
 <a href="https://www.buymeacoffee.com/zacharyhorvath" target="\_blank" rel="noopener">
