@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/zachary-horvath/">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-83773.appspot.com/o/images%2Favatar.jpg?alt=media&token=b833f9d3-da29-42b9-a325-cd5bcc61b940" alt="=Me" width="80" height="80">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-83773.appspot.com/o/Media%2FProjects%2FPortfolio%2FV5%2Favatar.webp?alt=media&token=67524bf1-3715-4e8b-b5b4-b43848211b14" alt="Me" width="80" height="80">
   </a>
 
   <h3 align="center">Functions</h3>
