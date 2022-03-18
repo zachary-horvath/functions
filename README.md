@@ -58,7 +58,7 @@
 ## About The Project
 
 <a href="" target="\_blank">
-  <img src="" alt="screenshot of functions" width="522" height="334">
+  <img src="" alt="screenshot of functions" width="576" height="329">
 </a>
 
 ### Built With
